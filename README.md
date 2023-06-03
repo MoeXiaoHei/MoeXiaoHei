@@ -8,7 +8,7 @@
 - 📫 918252869@qq.com
 - 🔭我目前正在研究编码技能。
 - 🌱我目前正在学习竞争性编程和DSA。
-- 💬问我关于Python，HTML和CSS的问题。
+- 💬问我关于Python，C++的问题。
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MoeXiaoHei&theme=radical&hide_border=true"/>
 </p>
